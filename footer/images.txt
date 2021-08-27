@@ -1,0 +1,14 @@
+../images/index.jpg Strassen_von_Berlin Beschreibung:_Ein_Bild_welches_das_Stadtleben_von_Berlin_um_1920_zeigt. Quelle:_https://www.tip-berlin.de/stadtleben/geschichte/100-jahre-gross-berlin-1920-zeitreise-fotos/ Datum:_03.10.2020
+../images/dolchstosslegende.jpg Dolchstosslegende Beschreibung:_Das_Bild_zeigt_den_weit_verbreiteten_Mythos_der_Dolchstosslegende. Quelle:_https://de.wikipedia.org/wiki/Dolchsto%C3%9Flegende Datum:_03.10.2020
+../images/franzoesischeBesetzung.jpg Französische_Besetzung Beschreibung:_Schiessscheibe_zur_Ruhrbesetzung_mit_antifranösischer_Propaganda. Quelle:_https://www.dhm.de/lemo/kapitel/weimarer-republik/innenpolitik.html Datum:_04.10.2020
+../images/arbeitskriese.jpg Wirtschaftskriese Beschreibung:_Zeigt_eine_lange_schlange_von_teilzeit_Arbeitern Quelle:_https://www.dhm.de/lemo/kapitel/weimarer-republik/industrie-und-wirtschaft.html Datum:_03.10.2020
+../images/8hregel.jpg 8-Stundentag Beschreibung:_Ein_Plakat_der_damaligen_Arbeiterpartei_für_den_8_Stundendtag Quelle:_https://www.dhm.de/lemo/kapitel/weimarer-republik/industrie-und-wirtschaft.html Datum:_03.10.2020
+../images/fliessband.jpg Fliessbandarbeit Beschreibung:_Die_frühere_Arbeitsweise_am_Fliessband Quelle:_https://www.dhm.de/lemo/kapitel/weimarer-republik/industrie-und-wirtschaft.html Datum:_03.10.2020
+../images/bild8.jpg Aussenpolitik Beschreibung:_Ein_Propagandabild_"Der_Tod_eures_Wohlstandes_naht!" Quelle:_https://www.sbc.org.pl/dlibra/publication/15545/edition/28343?language=de Datum:_03.10.2020
+../images/Bild4.jpg Theaterstück Beschreibung:_Ein_Plakat_für_ein_Theaterstück Quelle:_https://www.dhm.de/lemo/bestand/objekt/pli04752 Datum:_03.10.2020
+../images/bild1.jpg Gemälde Beschreibung:_Ein_Bild_von_George_Grosz Quelle:_https://www.dhm.de/lemo/bestand/objekt/gr102610 Datum:_03.10.2020
+../images/theater.jpg Theater Beschreibung:_Ein_Theater_von_innen Quelle:_https://kultur-in-krefeld.de/kulturhistorie/theater/theater-2/ Datum:_03.10.2020
+../images/medien.jpg Rundfunkgerät Beschreibung:_Ein_Vater_zeigt_seiner_Tochter_ein_Rundfunkgerät Quelle:_https://www.bpb.de/geschichte/zeitgeschichte/sound-des-jahrhunderts/209790/radiosignale Datum:_03.10.2020
+../images/kleidung.jpg Frauenkleidung Beschreibung:_Eine_Frau_in_Ausgangskleidung Quelle:_https://www.zeitklicks.de/weimarer-republik/zeitklicks/zeit/alltag/kleidung-und-mode/kleider-fuer-die-frau/ Datum:_03.10.2020
+../images/sport.jpg Kompetitives_laufen Beschreibung:_Ein_kompetitiver_wettkampf_im_laufen Quelle:_https://www.faz.net/aktuell/sport/sportpolitik/roaring-twenties-sport-war-populaer-in-der-weimarer-republik-15894593/mittelstreckler-otto-peltzer-15894955.html Datum:_03.10.2020
+../images/automobil.jpg Elektroauto Beschreibung:_Eine_Gruppe_von_Erwachsenen_welche_Elektroautos_fahren Quelle:_https://www.bz-berlin.de/artikel-archiv/1920-war-berlin-hauptstadt-der-e-autos Datum:_03.10.2020
